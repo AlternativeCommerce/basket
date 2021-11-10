@@ -1,7 +1,7 @@
-API
+Payments
 ===
 
 .. autosummary::
    :toctree: generated
 
-   lumache
+   AlternativeCommerce
