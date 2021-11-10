@@ -11,8 +11,8 @@ Installation
 4. Views
 
 **To start, you need to install the modules:**
-1. `Token<https://www.drupal.org/project/token/>`
-2. SCSS/Less Compiler
+1. `Token <https://www.drupal.org/project/token/>`  _
+2. `SCSS/Less Compiler <https://www.drupal.org/project/scss_compiler/>`  _
 
 
 **Installation on an existing site:**
