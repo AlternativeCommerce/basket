@@ -6,14 +6,15 @@ Installation
 
 **Dependencies:**
 
-1. Node
-2. Token
-3. SCSS/Less Compiler
-4. Views
+#. Node
+#. Token
+#. SCSS/Less Compiler
+#. Views
 
 **To start, you need to install the modules:**
-1. `Token <https://www.drupal.org/project/token/>`  _
-2. `SCSS/Less Compiler <https://www.drupal.org/project/scss_compiler/>`  _
+
+#. `Token <https://www.drupal.org/project/token/>`  _
+#. `SCSS/Less Compiler <https://www.drupal.org/project/scss_compiler/>`  _
 
 
 **Installation on an existing site:**
