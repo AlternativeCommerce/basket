@@ -1,7 +1,8 @@
 Welcome to AlternativeCommerce documentation!
 ===================================
 
-## Drupal AlternativeCommerce (Basket)
+Drupal AlternativeCommerce (Basket)
+########
 
 
 Contents
