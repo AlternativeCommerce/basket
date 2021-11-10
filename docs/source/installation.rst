@@ -1,7 +1,8 @@
 Installation
 ===================================
 
-**The module is intended for installation on drupal 8 or drupal 9 projects!**
+.. warning::
+    **The module is intended for installation on drupal 8 or drupal 9 projects!**
 
 
 **Dependencies:**
