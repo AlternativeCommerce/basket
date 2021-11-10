@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'AlternativeCommerce'
+copyright = '2021, AlternativeCommerce'
+author = 'AlternativeCommerce'
 
 release = '0.1'
 version = '0.1.0'
