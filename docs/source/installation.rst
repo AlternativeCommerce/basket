@@ -13,8 +13,8 @@ Installation
 
 **To start, you need to install the modules:**
 
-#. `Token <https://www.drupal.org/project/token/>`  _
-#. `SCSS/Less Compiler <https://www.drupal.org/project/scss_compiler/>`  _
+#. `Token <https://www.drupal.org/project/token/>`_
+#. `SCSS/Less Compiler <https://www.drupal.org/project/scss_compiler/>`_
 
 
 **Installation on an existing site:**
