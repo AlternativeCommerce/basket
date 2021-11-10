@@ -5,10 +5,10 @@ The module is intended for installation on drupal 8 or drupal 9 projects!
 ########
 
 **Dependencies:**
-# Node
-# Token
-# SCSS/Less Compiler
-# Views
+#. Node
+#. Token
+#. SCSS/Less Compiler
+#. Views
 
 
 **Installation on an existing site:**
