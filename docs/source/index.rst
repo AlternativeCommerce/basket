@@ -1,6 +1,8 @@
 Welcome to AlternativeCommerce documentation!
 ===================================
 
+![Logo](./assets/logo.png)
+
 Drupal AlternativeCommerce (Basket)
 ########
 
