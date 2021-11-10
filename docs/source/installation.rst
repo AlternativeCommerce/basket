@@ -1,13 +1,13 @@
 Installation
 ===================================
 
-Installation on an existing site:
+**Installation on an existing site:**
 ::
 
     composer require 'drupal/basket:^2.0.2@RC'
     
 
-Additional libraries will be downloaded during installation:
+**Additional libraries will be downloaded during installation:**
 ::
 
     "require": {
